@@ -1,0 +1,21 @@
+h1{
+    text-align:center;
+    background-color:yellow;
+}
+p{
+   background-color:yellow;
+   font-size:25px;
+}  
+.pe{
+    text-align: center;
+}
+.f{
+    background-color: black;
+    color:white;
+     font-size:20px;
+}
+footer{
+    background-color:black;
+}
+
+
